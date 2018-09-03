@@ -1,0 +1,67 @@
+input[type=text]{
+	background-color: #12CBFF;
+	font-weight: bold;
+	border-radius: 3px;
+	border: 2px solid black;
+}
+
+input[type=text]:focus{
+	background-color: white;
+}
+
+input[type=number]{
+	border-radius: 3px;
+	border: 2px solid black;
+	background-color: #12CBFF;
+	font-weight: bold;
+}
+
+input[type=number]:focus{
+	background-color: white;
+}
+	
+
+input[type=email]{
+	width:170px;
+	border-radius: 3px;
+	border: 2px solid black;
+}
+
+input[type=email]{
+	background-color: #12CBFF;
+	font-weight: bold;
+	border-radius: 3px;
+	border: 2px solid black;
+}
+
+input[type=email]:focus{
+	background-color: white;
+}
+
+#CPF{
+	width:200px;
+}
+
+#meuEndereco{
+	width: 230px;
+}
+
+#meuNome{
+	width: 170px;
+}
+
+.descricao{
+	width: 780px;
+	height: 300px;
+	border: 2px solid black;
+	overflow: hidden;
+	font-weight:bold;
+	
+}
+
+.rotulo{
+	font-style: italic;
+}
+
+
+
